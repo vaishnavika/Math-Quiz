@@ -7,3 +7,9 @@
     float:none;
     text-align:left;
 }
+
+#scoarBoard{
+    margin-left:50px;
+ color:aquamarine;
+ background-color: palevioletred;
+}
